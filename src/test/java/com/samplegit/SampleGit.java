@@ -13,4 +13,18 @@ private void cat() {
 	System.out.println("one");
 
 }
+
+private void india() {
+	// TODO Auto-generated method stub
+
+}
+
+private void dubai() {
+	// TODO Auto-generated method stub
+
+}
+private void japan() {
+	// TODO Auto-generated method stub
+
+}
 }
