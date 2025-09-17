@@ -6,10 +6,14 @@ public class Sample2 {
 
 	}
 	
-	private void search() {
+	private void logout() {
 		// TODO Auto-generated method stub
 
 	}
 	
+	private void payment() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
