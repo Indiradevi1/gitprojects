@@ -11,9 +11,5 @@ public class Sample2 {
 
 	}
 	
-	private void payment() {
-		// TODO Auto-generated method stub
-
-	}
-
+	
 }
